@@ -1,5 +1,6 @@
 # HR-Dashboard- Tableau
-![kisspng-computer-icons-dashboard-inventory-management-soft-phone-case-5a](https://github.com/user-attachments/assets/17203414-dff3-41fb-afdf-c73b9d855afd)
+![5581393](https://github.com/user-attachments/assets/2dfe0ee1-127a-4ec9-bc69-bb2baa4d4350)
+
 
 
 # Introduction :clipboard:
