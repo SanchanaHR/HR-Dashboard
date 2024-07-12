@@ -9,6 +9,8 @@ The objective is to build a comprehensive dashboard of HR data with both summary
 
 # Data Visualization :bar_chart:
 
+Tableau Link: [Here](https://public.tableau.com/app/profile/sanchana.hassan.ramanatha/viz/HRAnalyticsDashboard_17202201414670/Dashboard1)
+
 The summary view consists of KPIs and high level insights of the HR data:
 
 ## 1. HR metrics
@@ -51,6 +53,6 @@ The dashboard lets the user interact by selecting and fitering data on below par
 
 ![HR Details](https://github.com/user-attachments/assets/42e13279-af67-4563-a843-88ab4887cb2b)
 
-Tableau Link: [Here](https://public.tableau.com/app/profile/sanchana.hassan.ramanatha/viz/HRAnalyticsDashboard_17202201414670/Dashboard1)
+
 
 
