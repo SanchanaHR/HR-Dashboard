@@ -1,10 +1,12 @@
 # HR-Dashboard- Tableau
+![kisspng-computer-icons-dashboard-inventory-management-soft-phone-case-5a](https://github.com/user-attachments/assets/17203414-dff3-41fb-afdf-c73b9d855afd)
+
 
 # Introduction :clipboard:
 The data is of the Human Resources department of a fictitious company based in New York.The dataset captures information like demographics, salary, length of employment etc of the employees from  various branches of the company. The data is generated using Chatgpt and Faker.
 The objective is to build a comprehensive dashboard of HR data with both summary view for high level insights and detailed records for in- depth analysis.
 
-# Data Visualization
+# Data Visualization :bar_chart:
 
 The summary view consists of KPIs and high level insights of the HR data:
 
